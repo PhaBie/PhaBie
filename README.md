@@ -7,6 +7,16 @@
 <img src="https://media1.tenor.com/m/Ir3fMRFe6JkAAAAd/getfake-getreal.gif" width="200"/>
 </div>
 
+Web Developer
+-------------
+
+i love code!!
+
+* 🌍  I'm based in Thailand
+* 🖥️  See my portfolio at [My website](http://test.com)
+* ✉️  You can contact me at [pupalove30120@gmail.com](mailto:pupalove30120@gmail.com)
+* 🧠  I'm learning Css Javascript and some framework
+
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
