@@ -19,18 +19,13 @@
 <b>My GitHub Stats</b>
 
 <div id="header" align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="http://www.github.com/PhaBie"><img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="SnowmanSoybad's GitHub stats" width="500" /></a>
-      </td>
-      <td>
-        <a href="http://www.github.com/PhaBie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PhaBie&stroke=ef4444&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" width="700"/></a>
-      </td>
-      <td>
-        <a href="https://github.com/PhaBie"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaBie&langs_count=10&title_color=3382ed&text_color=ef4444&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="500"/></a>
-      </td>
-    </tr>
-  </table>
-</div>
+  <!-- รูปภาพที่ 1 อยู่ด้านซ้าย -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Image 1" width="200" height="150" style="margin-right: 20px;"/>
 
+  <!-- รูปภาพที่ 2 อยู่ด้านขวา -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhaBie&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Image 2" width="200" height="150" style="margin-left: 20px;"/>
+
+  <!-- รูปภาพที่อยู่ตรงกลาง -->
+  <br> <!-- เว้นบรรทัด -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaBie&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" alt="Center Image" width="400" height="300"/>
+</div>
