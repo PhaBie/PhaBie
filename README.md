@@ -18,10 +18,11 @@
 
 <b>My GitHub Stats</b>
 
-<div id="header" align="center">
+
 <a href="http://www.github.com/PhaBie"><img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="PhaBie's GitHub stats" /></a>
 
 <a href="http://www.github.com/PhaBie"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PhaBie&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<div id="header" align="center">
 <a href="https://github.com/PhaBie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaBie&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
