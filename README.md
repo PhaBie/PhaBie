@@ -13,4 +13,4 @@
 </p>
 
 <a href="http://www.github.com/PhaBie"><img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="PhaBie's GitHub stats" /></a>
-
+<a href="http://www.github.com/PhaBie"><img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="PhaBie's GitHub stats" /></a>
