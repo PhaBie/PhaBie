@@ -20,10 +20,10 @@
 
 <div id="header" align="center">
   <!-- รูปภาพที่ 1 อยู่ด้านซ้าย -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Image 1" width="200" height="150" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhaBie&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Image 1" width="400" height="150" style="margin-right: 20px;"/>
 
   <!-- รูปภาพที่ 2 อยู่ด้านขวา -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhaBie&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Image 2" width="200" height="150" style="margin-left: 20px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhaBie&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Image 2" width="400" height="150" style="margin-left: 20px;"/>
 
   <!-- รูปภาพที่อยู่ตรงกลาง -->
   <br> <!-- เว้นบรรทัด -->
