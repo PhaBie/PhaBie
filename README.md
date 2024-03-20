@@ -10,7 +10,7 @@
 Web Developer
 -------------
 
-i love code!!
+I love you, but it's less than I love coding.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My website](http://test.com)
