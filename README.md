@@ -12,10 +12,10 @@ Web Developer
 
 I love you, but it's less than I love coding.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm in Thailand
 * 🖥️  See my portfolio at [My website](http://test.com)
 * ✉️  You can contact me at [pupalove30120@gmail.com](mailto:pupalove30120@gmail.com)
-* 🧠  I'm learning Css Javascript and some framework
+* 🧠  I'm learning Advance Python
 
 -------------
 
