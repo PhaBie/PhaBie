@@ -10,15 +10,6 @@
 Web Developer
 -------------
 
-I love you, but it's less than I love coding.
-
-* 🌍  I'm in Thailand
-* 🖥️  See my portfolio at [My website](http://test.com)
-* ✉️  You can contact me at [pupalove30120@gmail.com](mailto:pupalove30120@gmail.com)
-* 🧠  I'm learning Advance Python
-
--------------
-
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
